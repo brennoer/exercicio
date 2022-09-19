@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/brennoer.lwc-l895mdw8",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ItcmXVZGJVk9UFpzxgpy --open"
+  }
+}
